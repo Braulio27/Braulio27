@@ -20,7 +20,8 @@ I'm a web developer from Costa Rica :computer:
 - I'm an organized person who likes to carry out any task in the best way as possible. Also, I enjoy learning new things. :raised_hands:
 - :telescope: I'm a Business Informatics student from Universidad de Costa Rica 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rodríguez27/)
+- :mailbox:How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rodríguez27/) also you can contact me through my email: bjrp2799@gmail.com
 
 ---
 
